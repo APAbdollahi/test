@@ -5,3 +5,6 @@ print("now some more stuff")
 
 #some more maths here
 print(2+2)
+
+# I try a crazy idea here
+print(integral x^2)
